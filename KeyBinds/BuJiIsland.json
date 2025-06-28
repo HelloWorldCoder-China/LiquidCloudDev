@@ -13794,7 +13794,7 @@
                         {
                             "name": "Bind",
                             "value": {
-                                "boundKey": "key.keyboard.f",
+                                "boundKey": "key.keyboard.unknown",
                                 "action": "Toggle"
                             }
                         },
