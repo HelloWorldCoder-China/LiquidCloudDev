@@ -5977,13 +5977,6 @@
                             }
                         },
                         {
-                            "name": "Bind",
-                            "value": {
-                                "boundKey": "key.keyboard.right.control",
-                                "action": "Hold"
-                            }
-                        },
-                        {
                             "name": "Hidden",
                             "value": false
                         },
