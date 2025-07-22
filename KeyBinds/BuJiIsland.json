@@ -5972,6 +5972,13 @@
                         {
                             "name": "Bind",
                             "value": {
+                                "boundKey": "key.keyboard.left.bracket",
+                                "action": "Hold"
+                            }
+                        },
+                        {
+                            "name": "Bind",
+                            "value": {
                                 "boundKey": "key.keyboard.right.control",
                                 "action": "Hold"
                             }
