@@ -510,7 +510,7 @@
                         {
                             "name": "Bind",
                             "value": {
-                                "boundKey": "key.keyboard.j",
+                                "boundKey": "key.keyboard.unknow",
                                 "action": "Toggle"
                             }
                         },
@@ -17946,7 +17946,7 @@
                         {
                             "name": "Bind",
                             "value": {
-                                "boundKey": "key.keyboard.j",
+                                "boundKey": "key.keyboard.unknow",
                                 "action": "Toggle"
                             }
                         },
